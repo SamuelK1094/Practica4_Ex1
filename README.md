@@ -17,4 +17,4 @@ Password: samuel
 
 ## Exemple docker run :
 
-docker run -itd -p 80:8080 -p 2222:2222 -p 9001:9001 -e USER=samuel -e PASSWORD=samuel SamuelK1094/centos-supervisor-httpd-ssh
+docker run -itd -p 80:8080 -p 2222:22 -p 9001:9001 -e USER=samuel -e PASSWORD=samuel SamuelK1094/centos-supervisor-httpd-ssh
