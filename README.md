@@ -7,7 +7,7 @@ Centos amb dos serveis Apache i SSH
 
 Puertos : 
 - Apache por defecto: 80
-- Supervisor por defecto: 900
+- Supervisor por defecto: 9001
 - SSH por defecto: 2222
 
 ## Usuario para entrar al supervidor
